@@ -29,4 +29,4 @@
 </p>
 
 <h2>Stats</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atenadadkhah&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=atenadadkhah&theme=radical">
