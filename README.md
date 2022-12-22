@@ -1,5 +1,6 @@
-<a href="https://github.com/atenadadkhah/">
-<img src="https://user-images.githubusercontent.com/91287064/208833395-dfb841f2-112d-46a6-a3af-19d53a7e8de0.png#gh-dark-mode-only" alt="github-atenadadkhah-readme"/>
+![github-atenadadkhah-readme](https://user-images.githubusercontent.com/91287064/209219434-dbdc4723-e526-442b-a80c-f35317f97e53.png#gh-dark-mode-only)
+![github-atenadadkhah-readme](https://user-images.githubusercontent.com/91287064/209220178-523e0221-d019-4310-bf65-48cb7b50d075.png#gh-light-mode-only)
+
 </a>
 
 👋 My name is Atena Dadkhah. I'm a Full-Stack web developer who loves learning new technologies and frameworks.
