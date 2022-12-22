@@ -1,5 +1,5 @@
 <a href="https://github.com/atenadadkhah/">
-<img src="https://user-images.githubusercontent.com/91287064/208833395-dfb841f2-112d-46a6-a3af-19d53a7e8de0.png" alt="github-atenadadkhah-readme"/>
+<img src="https://user-images.githubusercontent.com/91287064/208833395-dfb841f2-112d-46a6-a3af-19d53a7e8de0.png#gh-dark-mode-only" alt="github-atenadadkhah-readme"/>
 </a>
 
 👋 My name is Atena Dadkhah. I'm a Full-Stack web developer who loves learning new technologies and frameworks.
