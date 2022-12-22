@@ -41,15 +41,15 @@
   </p>
 <h2>Stats</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=atenadadkhah&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=atenadadkhah&theme=transparent">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atenadadkhah&layout=compact&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atenadadkhah&layout=compact&theme=transparent">
 </p>
 <h3>Favorite GitHub Repos</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=dll-virus&theme=github_dark" alt="dll-virus-github-repository-atenadadkhah">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=GD-captcha&theme=github_dark" alt="gd-captcha-github-repository-atenadadkhah">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=iceXO&theme=github_dark" alt="iceXO-github-repository-atenadadkhah">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=dll-virus&theme=transparent" alt="dll-virus-github-repository-atenadadkhah">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=GD-captcha&theme=transparent" alt="gd-captcha-github-repository-atenadadkhah">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=iceXO&theme=transparent" alt="iceXO-github-repository-atenadadkhah">
 <h2>How To Reach me</h2>
 <p>
   
