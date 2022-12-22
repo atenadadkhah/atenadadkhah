@@ -1,5 +1,6 @@
 ![github-atenadadkhah-readme](https://user-images.githubusercontent.com/91287064/209219434-dbdc4723-e526-442b-a80c-f35317f97e53.png#gh-dark-mode-only)
-![github-atenadadkhah-readme](https://user-images.githubusercontent.com/91287064/209220178-523e0221-d019-4310-bf65-48cb7b50d075.png#gh-light-mode-only)
+![github-atenadadkhah-readme](https://user-images.githubusercontent.com/91287064/209221010-03926402-7459-4695-bf9b-dad615a1e7bc.png#gh-light-mode-only)
+
 
 </a>
 
