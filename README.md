@@ -14,7 +14,7 @@
 <br>
 💡Currently hacking on a cool Library website.
 <br>
-<h2>Some Tools I Have Used and Learned</h2>
+<h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="65" height="65" alt="html5-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="tailwindcss-atenadadkhah"/>
