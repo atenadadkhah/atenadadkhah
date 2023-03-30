@@ -34,6 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="65" height="65" alt="composer-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="65" height="65" alt="laravel-atenadadkhah"/>
     <img src="https://alpinejs.dev/alpine_long.svg" width="65" height="65" alt="alpinejs-atenadadkhah"/>
+    <img src="https://user-images.githubusercontent.com/91287064/228952651-43e33368-cdd7-40a4-b1b9-42d2475209fe.png" width="65" height="65" alt="livewire-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" width="65" height="65" alt="phpstorm-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="65" height="65" alt="webstorm-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="65" height="65" alt="apache-atenadadkhah"/>
