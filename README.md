@@ -43,7 +43,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="nodejs-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="65" height="65" alt="express-atenadadkhah"/>
   </p>
 <h2>Stats</h2>
 <p>
