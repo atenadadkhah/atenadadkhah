@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" width="65" height="65" alt="phpstorm-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="65" height="65" alt="webstorm-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="65" height="65" alt="apache-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm-atenadadkhah"/>
+    <img src="https://user-images.githubusercontent.com/91287064/233824074-101e808a-ae55-4d9e-b8ce-c31af4fe4904.png" width="65" height="65" alt="firebase-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="nodejs-atenadadkhah"/>
   </p>
