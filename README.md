@@ -24,6 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="65" height="65" alt="less-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65" alt="bootstrap-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="65" height="65" alt="babel-atenadadkhah"/>
+    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/46ebbddc-eb10-4f90-92be-871980d4be3d" width="65" height="65" alt="git-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="mysql-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="mongodb-atenadadkhah"/>
     <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/1dc3ce50-9792-4004-9aeb-c637eb3cdfb3" width="65" height="65" alt="sqlite-atenadadkhah"/>
