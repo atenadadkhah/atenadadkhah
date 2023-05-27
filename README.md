@@ -29,6 +29,7 @@
     <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="65" height="65" alt="typescript-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/230383832-7f9d2484-4cbc-4015-96d7-06439e7de6fd.png" width="65" height="65" alt="jquery-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="65" height="65" alt="react-atenadadkhah"/>
+    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/456e506d-7a09-4001-a906-8856f1768330" width="65" height="65" alt="nextjs-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="65" height="65" alt="wordpress-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="65" height="65" alt="photoshop-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="linux-atenadadkhah"/>
@@ -43,6 +44,7 @@
     <img src="https://user-images.githubusercontent.com/91287064/233824074-101e808a-ae55-4d9e-b8ce-c31af4fe4904.png" width="65" height="65" alt="firebase-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="nodejs-atenadadkhah"/>
+    <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/20f544b3-324a-4e9f-b7c6-b48c1940f647" width="65" height="65" alt="nestjs-atenadadkhah"/>
   </p>
 <h2>Stats</h2>
 <p>
