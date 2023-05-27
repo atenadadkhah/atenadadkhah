@@ -6,7 +6,7 @@
 
 👋 My name is Atena Dadkhah. I'm a Full-Stack web developer who loves learning new technologies and frameworks.
 <br>
-📑I'm currently learning **Nest.JS** and **Ethical Hacking**
+📑I'm currently learning **Ruby On Rails** and **Ethical Hacking**
 <br>
 🧩 My favorite hobbies are programming 🤡, solving math problems and reading books.
 <br>
