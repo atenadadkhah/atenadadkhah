@@ -56,7 +56,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atenadadkhah&layout=compact&theme=transparent">
 </p>
-<h3>Favorite GitHub Repos</h3>
+<h3>My Favorite GitHub Repos</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=dll-virus&theme=transparent" alt="dll-virus-github-repository-atenadadkhah">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=Elite-Shop&theme=transparent" alt="elite-shop-github-repository-atenadadkhah">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=GD-captcha&theme=transparent" alt="gd-captcha-github-repository-atenadadkhah">
