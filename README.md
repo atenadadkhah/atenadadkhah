@@ -37,11 +37,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="65" height="65" alt="photoshop-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="linux-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="php-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="65" height="65" alt="composer-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="65" height="65" alt="laravel-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/228954023-d1dfd66a-937b-4c17-b216-fcbb87dcbe20.png" width="65" height="65" alt="alpinejs-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/228953341-6d950527-46ad-43f4-a4ad-c4b094b2bce3.png" width="65" height="65" alt="livewire-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="65" height="65" alt="apache-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/233824074-101e808a-ae55-4d9e-b8ce-c31af4fe4904.png" width="65" height="65" alt="firebase-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="python-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="nodejs-atenadadkhah"/>
