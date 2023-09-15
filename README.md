@@ -12,7 +12,7 @@
 <br>
 🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
 <br>
-💡Currently hacking on a cool my own website.
+💡Currently hacking on my own website.
 <br>
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
