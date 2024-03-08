@@ -16,8 +16,8 @@
 <br>
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="55" height="55" alt="html5-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55" alt="tailwindcss-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="55" height="55" alt="html5-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="tailwind-atenadadkhah"/>
     <img src="https://github.com/atenadadkhah/atenadadkhah/assets/91287064/b57ed589-2215-412b-9eea-335a5c984578" width="55" height="55" alt="materialui-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="55" height="55" alt="css3-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" height="55" alt="sass-atenadadkhah"/>
@@ -37,7 +37,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="55" height="55" alt="photoshop-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="linux-atenadadkhah"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="php-atenadadkhah"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="55" height="55" alt="laravel-atenadadkhah"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="55" height="55" alt="laravel-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/228954023-d1dfd66a-937b-4c17-b216-fcbb87dcbe20.png" width="55" height="55" alt="alpinejs-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/228953341-6d950527-46ad-43f4-a4ad-c4b094b2bce3.png" width="55" height="55" alt="livewire-atenadadkhah"/>
     <img src="https://user-images.githubusercontent.com/91287064/233824074-101e808a-ae55-4d9e-b8ce-c31af4fe4904.png" width="55" height="55" alt="firebase-atenadadkhah"/>
