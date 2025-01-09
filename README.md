@@ -6,11 +6,11 @@
 
 👋 My name is Atena Dadkhah. I'm a Full-Stack web developer who loves learning new technologies and frameworks.
 <br>
-📑I'm currently learning **Django** and **Ethical Hacking**
+📑I'm currently learning **Django** and **Machine Learning**
 <br>
-🧩 My favorite hobbies are programming 🤡, solving math problems and reading books.
+🧩 My favorite hobbies are programming, solving math problems and reading books.
 <br>
-🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
+🎈 Feel free to contact me! I'm always available to discuss Tech news, programming tips and also to help you with your projects.
 <br>
 💡Currently hacking on my own website.
 <br>
