@@ -47,10 +47,10 @@
 </p>
 <h2>Stats</h2>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=atenadadkhah&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=atenadadkhah&theme=transparent">
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atenadadkhah&layout=compact&theme=transparent">
+    <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=atenadadkhah&layout=compact&theme=transparent">
 </p>
 <h3>My Favorite GitHub Repos</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=reader&theme=transparent" alt="reader-github-repository-atenadadkhah">
